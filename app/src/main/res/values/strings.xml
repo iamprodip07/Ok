@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FreshDrop</string>
+    <string name="tagline">Smart Grocery Delivery &amp; AI Recipe Hub</string>
+    <string name="nav_shop">Shop</string>
+    <string name="nav_pantry">Pantry</string>
+    <string name="nav_recipes">AI Chef</string>
+    <string name="nav_orders">Live Track</string>
+    <string name="nav_profile">Profile</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "FreshDrop - Grocery & Recipes",
+  "description": "Smart grocery delivery with real-time live tracking, automated pantry inventory management, and AI-powered recipe suggestions based on what you have.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
